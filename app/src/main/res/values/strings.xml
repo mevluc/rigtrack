@@ -1,0 +1,357 @@
+<resources>
+    <string name="app_name" formatted="false">RigTrack</string>
+    <string name="back" formatted="false">Back</string>
+    <string name="home" formatted="false">Workspace</string>
+    <string name="home_intro" formatted="false">Post-production ready camera tracking.</string>
+    <string name="home_detail" formatted="false">Mount your phone to the camera, set your reference, and start recording.</string>
+    <string name="new_shot" formatted="false">New shot</string>
+    <string name="recordings" formatted="false">Recordings</string>
+    <string name="rig_profiles" formatted="false">Rig profiles</string>
+    <string name="marker_maps" formatted="false">Marker maps</string>
+    <string name="calibration" formatted="false">Camera calibration</string>
+    <string name="generator" formatted="false">Marker generator</string>
+    <string name="guide" formatted="false">Guide</string>
+    <string name="settings" formatted="false">Settings</string>
+    <string name="diagnostics" formatted="false">Diagnostics</string>
+    <string name="new_shot_hint" formatted="false">Set up the film camera and rig.</string>
+    <string name="recordings_hint" formatted="false">Review and export your takes</string>
+    <string name="rig_hint" formatted="false">Phone to film camera alignment</string>
+    <string name="maps_hint" formatted="false">Fixed references for the set</string>
+    <string name="calibration_hint" formatted="false">Improve marker pose accuracy</string>
+    <string name="generator_hint" formatted="false">Print markers at exact physical size</string>
+    <string name="guide_hint" formatted="false">From mounting to Blender</string>
+    <string name="settings_hint" formatted="false">Language and capture preferences</string>
+    <string name="diagnostics_hint" formatted="false">Device and pipeline information</string>
+    <string name="home_recordings_description" formatted="false">Review and export previous shots.</string>
+    <string name="home_rig_profiles_description" formatted="false">Set the phone-to-camera position.</string>
+    <string name="home_marker_maps_description" formatted="false">Manage marker references for your set.</string>
+    <string name="home_camera_calibration_description" formatted="false">Calibrate the phone camera with ChArUco.</string>
+    <string name="home_marker_generator_description" formatted="false">Print markers and ChArUco PDFs.</string>
+    <string name="home_guide_description" formatted="false">Learn RigTrack step by step.</string>
+    <string name="home_settings_description" formatted="false">Adjust language and tracking preferences.</string>
+    <string name="home_diagnostics_description" formatted="false">View system, sensor and version information.</string>
+    <string name="save" formatted="false">Save</string>
+    <string name="cancel" formatted="false">Cancel</string>
+    <string name="close" formatted="false">Close</string>
+    <string name="start" formatted="false">Start</string>
+    <string name="continue_action" formatted="false">Continue</string>
+    <string name="skip" formatted="false">Skip</string>
+    <string name="done" formatted="false">Done</string>
+    <string name="delete" formatted="false">Delete</string>
+    <string name="rename" formatted="false">Rename</string>
+    <string name="duplicate" formatted="false">Use these settings</string>
+    <string name="export" formatted="false">Export .vfxtrack</string>
+    <string name="export_csv" formatted="false">Export Blender CSV</string>
+    <string name="details" formatted="false">Details</string>
+    <string name="advanced" formatted="false">Advanced</string>
+    <string name="name" formatted="false">Name</string>
+    <string name="shot_name" formatted="false">Shot name</string>
+    <string name="camera" formatted="false">Film camera</string>
+    <string name="camera_preset" formatted="false">Camera preset</string>
+    <string name="search" formatted="false">Search manufacturer or model</string>
+    <string name="custom_camera" formatted="false">Custom camera</string>
+    <string name="capture_mode" formatted="false">Capture mode</string>
+    <string name="fps" formatted="false">Film FPS</string>
+    <string name="focal" formatted="false">Focal length (mm)</string>
+    <string name="sensor_width" formatted="false">Active sensor width (mm)</string>
+    <string name="sensor_height" formatted="false">Active sensor height (mm)</string>
+    <string name="resolution_width" formatted="false">Image width (px)</string>
+    <string name="resolution_height" formatted="false">Image height (px)</string>
+    <string name="focus" formatted="false">Focus distance (m; 0 = unknown)</string>
+    <string name="lens" formatted="false">Lens name</string>
+    <string name="no_map" formatted="false">No map</string>
+    <string name="smoothing" formatted="false">Offline smoothing</string>
+    <string name="off" formatted="false">Off</string>
+    <string name="low" formatted="false">Low</string>
+    <string name="medium" formatted="false">Medium</string>
+    <string name="high" formatted="false">High</string>
+    <string name="marker_rate" formatted="false">Marker detection FPS</string>
+    <string name="ar_fps" formatted="false">Preferred AR FPS</string>
+    <string name="auto" formatted="false">Auto</string>
+    <string name="developer" formatted="false">Developer mode</string>
+    <string name="synthetic" formatted="false">Synthetic test</string>
+    <string name="synthetic_hint" formatted="false">Simulated motion. No physical camera tracking.</string>
+    <string name="motion" formatted="false">Test motion</string>
+    <string name="capture" formatted="false">Capture</string>
+    <string name="origin" formatted="false">Set origin</string>
+    <string name="origin_set" formatted="false">Origin set</string>
+    <string name="origin_missing" formatted="false">Set origin before recording</string>
+    <string name="record" formatted="false">Record</string>
+    <string name="stop" formatted="false">Stop</string>
+    <string name="sync" formatted="false">Sync</string>
+    <string name="markers" formatted="false">Markers</string>
+    <string name="axes" formatted="false">Axes</string>
+    <string name="tools" formatted="false">Tools</string>
+    <string name="relocalize" formatted="false">Relocalize map</string>
+    <string name="board_reference" formatted="false">Board reference</string>
+    <string name="excellent" formatted="false">Excellent</string>
+    <string name="good" formatted="false">Good</string>
+    <string name="fair" formatted="false">Fair</string>
+    <string name="poor" formatted="false">Poor</string>
+    <string name="lost" formatted="false">Lost</string>
+    <string name="quality" formatted="false">Tracking quality</string>
+    <string name="quality_tip" formatted="false">Use textured surfaces, steady motion and visible fixed markers.</string>
+    <string name="quality_good" formatted="false">Reference is stable. Keep markers visible during the move.</string>
+    <string name="tracking" formatted="false">Tracking</string>
+    <string name="initializing" formatted="false">Initializing</string>
+    <string name="duration" formatted="false">Duration</string>
+    <string name="world_lock" formatted="false">Marker world lock</string>
+    <string name="enabled" formatted="false">Enabled</string>
+    <string name="disabled" formatted="false">Disabled</string>
+    <string name="free_storage" formatted="false">Free storage</string>
+    <string name="thermal" formatted="false">Thermal status</string>
+    <string name="gyro" formatted="false">Gyroscope</string>
+    <string name="accel" formatted="false">Accelerometer</string>
+    <string name="ar_rate" formatted="false">AR camera rate</string>
+    <string name="detector_rate" formatted="false">Detector rate</string>
+    <string name="dropped" formatted="false">Dropped marker frames</string>
+    <string name="mapped" formatted="false">Mapped markers</string>
+    <string name="technical_details" formatted="false">Technical details</string>
+    <string name="record_exit_title" formatted="false">Save and leave capture?</string>
+    <string name="record_exit_body" formatted="false">Recording is active. Stop and save this take before leaving.</string>
+    <string name="stop_save" formatted="false">Stop, save and leave</string>
+    <string name="double_back" formatted="false">Press back again to exit</string>
+    <string name="delete_title" formatted="false">Delete recording?</string>
+    <string name="delete_body" formatted="false">This shot and its tracking data will be permanently deleted.</string>
+    <string name="empty_recordings" formatted="false">No recordings yet</string>
+    <string name="empty_recordings_hint" formatted="false">Start a new shot. Completed takes appear here.</string>
+    <string name="empty_maps" formatted="false">No marker maps</string>
+    <string name="empty_maps_hint" formatted="false">Create a map from fixed markers before your first take.</string>
+    <string name="summary" formatted="false">Shot summary</string>
+    <string name="exported" formatted="false">Exported</string>
+    <string name="not_exported" formatted="false">Not exported</string>
+    <string name="recover" formatted="false">Recover unfinished recording</string>
+    <string name="unfinished" formatted="false">Recording was interrupted. Recover complete rows before export.</string>
+    <string name="export_complete" formatted="false">Export complete</string>
+    <string name="saved" formatted="false">Saved</string>
+    <string name="error_title" formatted="false">Action could not be completed</string>
+    <string name="error_generic" formatted="false">Check your settings and try again. Technical details are available in Diagnostics.</string>
+    <string name="invalid_value" formatted="false">Enter a valid value within the indicated limits.</string>
+    <string name="origin_required" formatted="false">Wait for tracking, then set the origin.</string>
+    <string name="mapped_required" formatted="false">Show a fixed marker from the selected map, then try again.</string>
+    <string name="stop_first" formatted="false">Stop recording before changing the reference.</string>
+    <string name="record_first" formatted="false">Start recording before adding a sync cue.</string>
+    <string name="permission_title" formatted="false">Camera access</string>
+    <string name="permission_body" formatted="false">RigTrack uses the camera for ARCore motion tracking and marker detection. Frames stay on your device.</string>
+    <string name="permission_denied" formatted="false">Allow camera access in Android settings to use physical tracking.</string>
+    <string name="open_settings" formatted="false">Open Android settings</string>
+    <string name="unsupported" formatted="false">Physical tracking is unavailable on this device. Check ARCore support and installation.</string>
+    <string name="storage_low" formatted="false">Storage is low. Export and remove older takes before a long recording.</string>
+    <string name="storage_critical" formatted="false">Recording stopped safely because storage is critically low.</string>
+    <string name="general" formatted="false">General</string>
+    <string name="language" formatted="false">Language</string>
+    <string name="keep_awake" formatted="false">Keep screen awake</string>
+    <string name="recording_settings" formatted="false">Recording</string>
+    <string name="sound" formatted="false">Sync sound</string>
+    <string name="haptic" formatted="false">Sync vibration</string>
+    <string name="interface_settings" formatted="false">Interface</string>
+    <string name="about" formatted="false">About</string>
+    <string name="offline_notice" formatted="false">Offline. No accounts, analytics or cloud uploads.</string>
+    <string name="sync_notice" formatted="false">Sync stores cue request time. Physical sound, light and vibration latency is not measured.</string>
+    <string name="reopen_onboarding" formatted="false">Show introduction again</string>
+    <string name="dictionary" formatted="false">Marker dictionary</string>
+    <string name="marker_size" formatted="false">Black-square size (mm)</string>
+    <string name="min_area" formatted="false">Minimum marker area (px²)</string>
+    <string name="max_error" formatted="false">Maximum reprojection error (px)</string>
+    <string name="correction" formatted="false">Correction strength (0–1)</string>
+    <string name="confidence" formatted="false">Minimum confidence (0–1)</string>
+    <string name="gap" formatted="false">Maximum interpolation gap (ms)</string>
+    <string name="sensor_period" formatted="false">Sensor period (µs; 0 = fastest)</string>
+    <string name="logging" formatted="false">Detailed diagnostic logging</string>
+    <string name="add_profile" formatted="false">Add rig profile</string>
+    <string name="horizontal" formatted="false">Horizontal offset (mm; right +)</string>
+    <string name="vertical" formatted="false">Vertical offset (mm; up +)</string>
+    <string name="forward" formatted="false">Forward offset (mm; forward +)</string>
+    <string name="yaw" formatted="false">Yaw (degrees)</string>
+    <string name="pitch" formatted="false">Pitch (degrees)</string>
+    <string name="roll" formatted="false">Roll (degrees)</string>
+    <string name="rig_explanation" formatted="false">Measure from the phone optical center to the film camera optical center. Keep the mount rigid.</string>
+    <string name="rig_axes" formatted="false">Phone camera axes: +X right, +Y up, −Z forward. Rotation order: Rz × Ry × Rx.</string>
+    <string name="new_map" formatted="false">New marker map</string>
+    <string name="map_name" formatted="false">Map name</string>
+    <string name="map_sizes" formatted="false">ID:size overrides (e.g. 1:150, 12:200)</string>
+    <string name="map_instruction" formatted="false">Keep markers fixed. Set origin, collect varied views, then save. Relocalize saved maps in each new AR session.</string>
+    <string name="collect" formatted="false">Collect samples</string>
+    <string name="save_map" formatted="false">Save map</string>
+    <string name="samples" formatted="false">Samples</string>
+    <string name="solve_calibration" formatted="false">Solve and save calibration</string>
+    <string name="calibration_instruction" formatted="false">Use the printed board below. Vary distance, tilt and frame position. Collect at least 15 diverse views; 25 recommended.</string>
+    <string name="calibration_apply" formatted="false">Calibration saved. Reopen capture to apply it.</string>
+    <string name="cal_more" formatted="false">Show at least six board corners.</string>
+    <string name="cal_closer" formatted="false">Move the board closer.</string>
+    <string name="cal_angle" formatted="false">Change the board angle and position.</string>
+    <string name="cal_ready" formatted="false">Enough samples to solve; more varied views can improve accuracy.</string>
+    <string name="cal_good" formatted="false">Good sample accepted.</string>
+    <string name="cal_restart" formatted="false">Resolution changed. Restart calibration.</string>
+    <string name="cal_bad" formatted="false">Calibration could not be solved accurately. Collect sharper, more varied views.</string>
+    <string name="marker_tab" formatted="false">Markers</string>
+    <string name="charuco_tab" formatted="false">ChArUco board</string>
+    <string name="first_id" formatted="false">First ID</string>
+    <string name="last_id" formatted="false">Last ID</string>
+    <string name="paper" formatted="false">Paper</string>
+    <string name="orientation" formatted="false">Orientation</string>
+    <string name="portrait" formatted="false">Portrait</string>
+    <string name="landscape" formatted="false">Landscape</string>
+    <string name="multi_page" formatted="false">Multiple markers per page</string>
+    <string name="labels" formatted="false">Print labels</string>
+    <string name="ruler" formatted="false">100 mm check ruler</string>
+    <string name="preview" formatted="false">Preview</string>
+    <string name="save_pdf" formatted="false">Save PDF</string>
+    <string name="print_warning" formatted="false">Print at 100% / Actual size. Disable Fit to page. Measure the black square before use.</string>
+    <string name="paper_fit" formatted="false">The selected pattern does not fit this paper with safe margins. Choose larger paper or a smaller pattern.</string>
+    <string name="board_columns" formatted="false">Board columns</string>
+    <string name="board_rows" formatted="false">Board rows</string>
+    <string name="square_size" formatted="false">Square size (mm)</string>
+    <string name="board_marker_size" formatted="false">Inner marker size (mm)</string>
+    <string name="board_match" formatted="false">These settings must match the printed calibration board.</string>
+    <string name="verified" formatted="false">Manufacturer source verified</string>
+    <string name="unverified_area" formatted="false">Active recording area is not verified. Enter the active dimensions for your recording mode.</string>
+    <string name="source" formatted="false">Source</string>
+    <string name="sensor" formatted="false">Sensor</string>
+    <string name="onboard_1" formatted="false">RigTrack</string>
+    <string name="onboard_1_body" formatted="false">Turn your phone into a professional camera tracking system. RigTrack uses its camera and motion sensors to capture the film camera’s 6DoF movement.</string>
+    <string name="onboard_2" formatted="false">Camera motion for VFX</string>
+    <string name="onboard_2_body" formatted="false">Combine ARCore, motion sensors, and physical marker references to record camera movement for post-production.</string>
+    <string name="onboard_3" formatted="false">Ready for Blender</string>
+    <string name="onboard_3_body" formatted="false">Export camera motion after the shot and bring the real camera movement into your Blender scene.</string>
+    <string name="get_started" formatted="false">Get Started</string>
+    <string name="reference_video" formatted="false">Reference Video</string>
+    <string name="reference_video_off" formatted="false">Off</string>
+    <string name="reference_video_720p" formatted="false">720p</string>
+    <string name="reference_video_1080p" formatted="false">1080p</string>
+    <string name="reference_video_hint" formatted="false">A lightweight visual proxy for reviewing and identifying the shot. It is not the production master.</string>
+    <string name="reference_video_storage_warning" formatted="false">There may not be enough storage for the reference video.</string>
+    <string name="reference_video_failed" formatted="false">The reference video could not start. Camera tracking is continuing without video.</string>
+    <string name="reference_video_recording" formatted="false">Reference ●</string>
+    <string name="saving_shot" formatted="false">Saving shot…</string>
+    <string name="watch_reference_video" formatted="false">Watch Reference Video</string>
+    <string name="reference_video_unavailable" formatted="false">No reference video is available for this shot.</string>
+    <string name="reference_video_delete_body" formatted="false">This shot, its tracking data, and its reference video will be permanently deleted.</string>
+    <string name="export_section" formatted="false">Export</string>
+    <string name="shot_actions" formatted="false">Shot actions</string>
+    <string name="danger_zone" formatted="false">Danger zone</string>
+    <string name="view_details" formatted="false">View details</string>
+    <string name="new_shot_same_settings" formatted="false">New shot with these settings</string>
+    <string name="developer_label" formatted="false">Developer</string>
+    <string name="version_label" formatted="false">Version</string>
+    <string name="about_description" formatted="false">RigTrack is a phone-based 6DoF camera motion tracking tool for film and VFX productions.</string>
+    <string name="video_resolution" formatted="false">Video resolution</string>
+    <string name="video_frame_rate" formatted="false">Video frame rate</string>
+    <string name="onboard_4" formatted="false">Bring motion into Blender</string>
+    <string name="onboard_4_body" formatted="false">Export the .vfxtrack file. Use the supplied Blender importer and align a sync cue to your footage.</string>
+    <string name="no_offset" formatted="false">No offset</string>
+    <string name="motion_circle" formatted="false">Circle</string>
+    <string name="motion_forward" formatted="false">Forward / back</string>
+    <string name="motion_pan" formatted="false">Pan</string>
+    <string name="motion_orbit" formatted="false">Orbit</string>
+    <string name="motion_test" formatted="false">Test trajectory</string>
+    <string name="stats" formatted="false">Statistics</string>
+    <string name="area_confirm" formatted="false">I verified these active sensor dimensions for this recording mode</string>
+    <string name="thermal_none" formatted="false">Normal</string>
+    <string name="thermal_light" formatted="false">Light</string>
+    <string name="thermal_moderate" formatted="false">Moderate</string>
+    <string name="thermal_severe" formatted="false">Severe</string>
+    <string name="thermal_critical" formatted="false">Critical</string>
+    <string name="thermal_emergency" formatted="false">Emergency</string>
+    <string name="thermal_shutdown" formatted="false">Shutdown</string>
+    <string name="unavailable" formatted="false">Unavailable</string>
+    <string name="film_frames" formatted="false">Film frames</string>
+    <string name="invalid_frames" formatted="false">Invalid frames</string>
+    <string name="lost_duration" formatted="false">Tracking lost duration</string>
+    <string name="world_corrections" formatted="false">World-reference corrections</string>
+    <string name="mean_error" formatted="false">Mean reprojection error</string>
+    <string name="page_number" formatted="false">Page</string>
+    <string name="previous" formatted="false">Previous</string>
+    <string name="next" formatted="false">Next</string>
+    <string name="guide_quick_title" formatted="false">Quick start</string>
+    <string name="guide_quick_body" formatted="false">1. Secure the phone to the camera. 2. Enter the measured rig offset and film camera settings. 3. Calibrate the phone lens with ChArUco. 4. Place fixed markers and create a map. 5. Open a shot, wait for tracking, relocalize a saved map or set a fresh origin. 6. Record and add sync cues. 7. Stop, export and import into Blender.</string>
+    <string name="guide_how_title" formatted="false">How tracking works</string>
+    <string name="guide_how_body" formatted="false">ARCore estimates physical phone-camera motion from images and inertial sensors. RigTrack records that pose relative to an anchor. Fixed mapped markers provide an additional world reference. The measured rigid offset converts the phone pose into the film-camera pose. Raw IMU samples remain a separate diagnostic stream; they are not a second independent position solution.</string>
+    <string name="guide_mount_title" formatted="false">Phone mounting</string>
+    <string name="guide_mount_body" formatted="false">Use a rigid clamp and secure every joint. The phone camera must see the environment throughout the move. Avoid flexible arms, loose cases and touching the phone during the take. A change in phone-to-camera alignment invalidates the rig profile. Recheck alignment after lens or accessory changes. Test a short move before the production take.</string>
+    <string name="guide_rig_title" formatted="false">Rig offset and rotation</string>
+    <string name="guide_rig_body" formatted="false">Measure from the phone optical center to the film-camera optical center, in millimetres. Positive horizontal is right, positive vertical is up and the editor defines positive forward toward the scene. Internally camera forward is −Z. Enter pitch, yaw and roll only when the cameras are not parallel. Rotation composition is Rz × Ry × Rx. Incorrect offsets become especially visible during rotation.</string>
+    <string name="guide_camera_title" formatted="false">Camera presets and field of view</string>
+    <string name="guide_camera_body" formatted="false">Select the exact recording mode, not just the camera model. Active sensor dimensions can differ from the physical sensor because of cropping. Output pixel dimensions alone do not prove active sensor size. Use verified mode dimensions or enter the manufacturer-specified active area. Enter the focal length used for the take separately. Focus breathing and lens distortion can still affect the match.</string>
+    <string name="guide_cal_title" formatted="false">Phone-camera calibration</string>
+    <string name="guide_cal_body" formatted="false">Generate a ChArUco board with the same dictionary, rows, columns, square size and inner-marker size as the calibration settings. Print at actual size and keep it flat. Show at least six corners. Vary distance, tilt and frame position; repeated identical views do not add useful samples. At least 15 diverse views are required and 25 are recommended. Solve and save, then reopen capture. The profile is tied to the device, camera and AR configuration.</string>
+    <string name="guide_print_title" formatted="false">Printing markers</string>
+    <string name="guide_print_body" formatted="false">The marker size is the outside edge of the black square, not the paper or white margin. Use 100% / Actual size and disable Fit to page. Measure the square and optional 100 mm ruler with a real ruler. Choose larger paper if the requested size does not fit; the generator must never shrink it. Keep white space around the marker, avoid glossy reflections and attach prints to a flat surface.</string>
+    <string name="guide_placement_title" formatted="false">Set placement</string>
+    <string name="guide_placement_body" formatted="false">Use unique IDs and keep every mapped marker fixed. Spread markers through the move at different viewing directions and heights. Avoid tiny distant markers, extreme viewing angles, motion blur and occlusion. Larger printed markers are easier to observe at distance. A moved marker no longer matches its saved world pose: remove it from the map or recalibrate the map.</string>
+    <string name="guide_mapping_title" formatted="false">Marker map calibration</string>
+    <string name="guide_mapping_body" formatted="false">Choose the dictionary and real black-square sizes. Use ID:size overrides for mixed-size markers. Set the origin, begin collecting and move slowly through varied views. Each reference needs enough accepted observations, generally 30–100. Save the map only while the set remains unchanged. An existing map must be relocalized before adding observations in a new session.</string>
+    <string name="guide_relocalization_title" formatted="false">Relocalization</string>
+    <string name="guide_relocalization_body" formatted="false">A new AR session has a new coordinate system. Loading a marker map does not align that coordinate system automatically. Show a good fixed marker from the map and select Relocalize map before recording. The reference must be recent and confidently detected. A fresh Set origin creates a new origin and does not recover an old map alignment.</string>
+    <string name="guide_origin_guide_title" formatted="false">Setting the origin</string>
+    <string name="guide_origin_guide_body" formatted="false">Wait for stable tracking, hold the rig at the intended reference pose and select Set origin. The recorded pose is anchor-relative. Do not change origin during a recording. If a saved map is required, use Relocalize map instead. Plan where the origin belongs in the Blender scene and document the reference pose for the team.</string>
+    <string name="guide_record_guide_title" formatted="false">Recording a take</string>
+    <string name="guide_record_guide_body" formatted="false">Confirm the film FPS, focal length, active sensor area, rig and map. Check storage and tracking quality. Set or relocalize the origin, then press the red record control. Add sync cues near the beginning and end. Stop normally and wait for export processing. Leaving capture asks to stop and save. Backgrounding the app safely ends the active recording and marks it interrupted.</string>
+    <string name="guide_sync_guide_title" formatted="false">Sync cues</string>
+    <string name="guide_sync_guide_body" formatted="false">SYNC records a monotonic cue-request timestamp and can emit sound, a screen flash and vibration. Physical onset is not hardware timestamped. Let the film camera record the cue sound, then align that cue in post. Multiple cues can help reveal clock drift. Do not assume phone time and camera timecode are already synchronized.</string>
+    <string name="guide_quality_guide_title" formatted="false">Quality and tracking loss</string>
+    <string name="guide_quality_guide_body" formatted="false">Quality combines tracking validity, cadence and mapped-marker confidence. It is a useful indicator, not a measured millimetre-accuracy guarantee. Add texture and light, reduce blur and keep references visible. Long gaps are exported as invalid frames rather than invented camera motion. Review loss duration, invalid frames and reprojection errors in the summary before using the take.</string>
+    <string name="guide_export_guide_title" formatted="false">Export and recovery</string>
+    <string name="guide_export_guide_body" formatted="false">A .vfxtrack container is a ZIP containing metadata, raw streams, derived tracks, diagnostics and reference snapshots. Keep it with the original film footage. Export through the Android document picker. CSV-only export is convenient for the fused Blender camera, but the full container preserves more evidence. If recording was interrupted, recover the complete rows from the retained partial recording before export.</string>
+    <string name="guide_blender_title" formatted="false">Blender import</string>
+    <string name="guide_blender_body" formatted="false">Install tools/blender/import_vfxtrack.py as an add-on and import the container. Choose raw or fused motion, start frame, sync offset and scale. The importer converts ARCore coordinates to Blender and sets film FPS, including rational rates such as 23.976. Align a recorded cue to the film. Check focal length, sensor fit and a known physical move before rendering. Invalid tracking frames are marked for review.</string>
+    <string name="guide_raw_fused_title" formatted="false">Raw and fused tracks</string>
+    <string name="guide_raw_fused_body" formatted="false">Raw means the original ARCore pose after the documented coordinate and rig transforms. Fused adds the marker world-reference correction. Offline smoothing affects only derived output and never rewrites the original sensor streams. Compare raw and fused when markers disagree, move or become occluded. Preserve both tracks so the post team can choose the most reliable result.</string>
+    <string name="guide_troubleshoot_title" formatted="false">Troubleshooting</string>
+    <string name="guide_troubleshoot_body" formatted="false">No preview: check camera permission and ARCore support. No markers: verify dictionary, print size, focus and white border. Unstable correction: check fixed placement, map alignment and lens calibration. Wrong field of view: verify active sensor crop and focal length. Offset during rotation: remeasure the rig. Missing frames: inspect tracking loss, storage and thermal status. Keep the raw container and diagnostic details when investigating a failure.</string>
+    <string name="export_options" formatted="false">Export options</string>
+    <string name="include_reference_video" formatted="false">Include reference video</string>
+    <string name="tracking_data_size" formatted="false">Tracking data</string>
+    <string name="reference_video_size" formatted="false">Reference video</string>
+    <string name="estimated_export_size" formatted="false">Estimated package</string>
+    <string name="export_video_default_hint" formatted="false">Reference video is excluded by default. Tracking data is always included.</string>
+    <string name="exporting" formatted="false">Writing export…</string>
+    <string name="export_failed" formatted="false">The export could not be written. Check the destination’s free space and access, then try again. The original recording is unchanged.</string>
+    <string name="detected_candidates" formatted="false">Detected candidates</string>
+    <string name="rejected_candidates" formatted="false">Rejected candidates</string>
+    <string name="detected_ids" formatted="false">Detected IDs</string>
+    <string name="cpu_image" formatted="false">CPU camera image</string>
+    <string name="cpu_image_timestamp" formatted="false">CPU image timestamp</string>
+    <string name="pose_timestamp" formatted="false">AR pose timestamp</string>
+    <string name="submitted_frames" formatted="false">Submitted marker frames</string>
+    <string name="processed_frames" formatted="false">Processed marker frames</string>
+    <string name="processing_time" formatted="false">Last processing time</string>
+    <string name="intrinsics_match" formatted="false">CPU intrinsics match</string>
+    <string name="last_detector_error" formatted="false">Last detector error</string>
+    <string name="cpu_unavailable" formatted="false">Unavailable CPU images</string>
+    <string name="translation_dead_zone" formatted="false">Translation dead zone</string>
+    <string name="rotation_dead_zone" formatted="false">Rotation dead zone</string>
+    <string name="relock_confirmation" formatted="false">Re-lock confirmation frames</string>
+    <string name="translation_blend" formatted="false">Translation blend</string>
+    <string name="rotation_blend" formatted="false">Rotation blend</string>
+    <string name="minimum_confidence" formatted="false">Minimum marker confidence</string>
+    <string name="gap_repair_limit" formatted="false">Offline gap repair limit</string>
+    <string name="tracking_refinement" formatted="false">Tracking refinement</string>
+    <string name="raw_jitter" formatted="false">RAW jitter</string>
+    <string name="fused_jitter" formatted="false">FUSED jitter</string>
+    <string name="refined_jitter" formatted="false">REFINED jitter</string>
+    <string name="rejected_outliers" formatted="false">Rejected outliers</string>
+    <string name="repaired_samples" formatted="false">Repaired samples</string>
+    <string name="relocks" formatted="false">Marker re-locks</string>
+    <string name="moved_markers" formatted="false">Moved markers</string>
+    <string name="average_processing" formatted="false">Average marker processing</string>
+    <string name="track_quality" formatted="false">Track quality</string>
+    <string name="rejected_marker_observations" formatted="false">Rejected marker observations</string>
+    <string name="repaired_gaps" formatted="false">Repaired gaps</string>
+    <string name="longest_repaired_gap" formatted="false">Longest repaired gap</string>
+    <string name="unrepaired_gaps" formatted="false">Unrepaired long gaps</string>
+    <string name="sample_counts" formatted="false">RAW / FUSED / REFINED samples</string>
+    <string name="maximum_deviation" formatted="false">Maximum refined deviation</string>
+    <string name="marker_used" formatted="false">Used</string>
+    <string name="marker_valid" formatted="false">Valid</string>
+    <string name="marker_mapped" formatted="false">Mapped</string>
+    <string name="awaiting_confirmation" formatted="false">Awaiting confirmation</string>
+    <string name="reject_low_confidence" formatted="false">Low confidence</string>
+    <string name="reject_reprojection" formatted="false">High reprojection error</string>
+    <string name="reject_translation" formatted="false">Translation outlier</string>
+    <string name="reject_rotation" formatted="false">Rotation outlier</string>
+    <string name="reject_moved" formatted="false">Marker may have moved</string>
+    <string name="reject_map_quality" formatted="false">Low map quality</string>
+    <string name="reject_tracking" formatted="false">ARCore not tracking</string>
+    <string name="reject_not_mapped" formatted="false">Not mapped</string>
+</resources>

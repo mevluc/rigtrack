@@ -1,0 +1,1231 @@
+[
+  {
+    "id": "arri-alexa-35",
+    "manufacturer": "ARRI",
+    "model": "ALEXA 35",
+    "sensorName": "ALEV 4 Super 35",
+    "sensorWidthMm": 27.99,
+    "sensorHeightMm": 19.22,
+    "sensorType": "CMOS",
+    "sourceName": "ARRI official specifications",
+    "sourceUrl": "https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-35",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "4.6K Open Gate",
+        "width": 4608,
+        "height": 3164,
+        "aspectRatio": "4608:3164",
+        "activeWidthMm": 27.99,
+        "activeHeightMm": 19.22,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "arri-alexa-mini-lf",
+    "manufacturer": "ARRI",
+    "model": "ALEXA Mini LF",
+    "sensorName": "ALEV III Large Format",
+    "sensorWidthMm": 36.7,
+    "sensorHeightMm": 25.54,
+    "sensorType": "CMOS",
+    "sourceName": "ARRI official specifications",
+    "sourceUrl": "https://www.arri.com/en/cine-systems/cine-cameras/alexa-mini-lf",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "4.5K LF Open Gate",
+        "width": 4448,
+        "height": 3096,
+        "aspectRatio": "4448:3096",
+        "activeWidthMm": 36.7,
+        "activeHeightMm": 25.54,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "4.5K LF 2.39:1",
+        "width": 4448,
+        "height": 1856,
+        "aspectRatio": "4448:1856",
+        "activeWidthMm": 36.7,
+        "activeHeightMm": 15.31,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "arri-alexa-lf",
+    "manufacturer": "ARRI",
+    "model": "ALEXA LF",
+    "sensorName": "ALEV III Large Format",
+    "sensorWidthMm": 36.7,
+    "sensorHeightMm": 25.54,
+    "sensorType": "CMOS",
+    "sourceName": "ARRI official specifications",
+    "sourceUrl": "https://www.arri.com/en/cine-systems/cine-cameras/alexa-lf",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "4.5K LF Open Gate",
+        "width": 4448,
+        "height": 3096,
+        "aspectRatio": "4448:3096",
+        "activeWidthMm": 36.7,
+        "activeHeightMm": 25.54,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "4.5K LF 2.39:1",
+        "width": 4448,
+        "height": 1856,
+        "aspectRatio": "4448:1856",
+        "activeWidthMm": 36.7,
+        "activeHeightMm": 15.31,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "arri-alexa-mini",
+    "manufacturer": "ARRI",
+    "model": "ALEXA Mini",
+    "sensorName": "ALEV III Super 35",
+    "sensorWidthMm": 28.25,
+    "sensorHeightMm": 18.17,
+    "sensorType": "CMOS",
+    "sourceName": "ARRI official specifications",
+    "sourceUrl": "https://www.arri.com/en/cine-systems/cine-cameras/legacy-cine-cameras/alexa-mini",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "3.4K Open Gate ARRIRAW",
+        "width": 3424,
+        "height": 2202,
+        "aspectRatio": "3424:2202",
+        "activeWidthMm": 28.25,
+        "activeHeightMm": 18.17,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "3.2K ProRes",
+        "width": 3200,
+        "height": 1800,
+        "aspectRatio": "3200:1800",
+        "activeWidthMm": 26.4,
+        "activeHeightMm": 14.85,
+        "verified": true
+      },
+      {
+        "id": "2",
+        "name": "UHD ProRes",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": 26.4,
+        "activeHeightMm": 14.85,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "arri-alexa-sxt-w",
+    "manufacturer": "ARRI",
+    "model": "ALEXA SXT W",
+    "sensorName": "ALEV III Super 35",
+    "sensorWidthMm": 28.25,
+    "sensorHeightMm": 18.17,
+    "sensorType": "CMOS",
+    "sourceName": "ARRI official specifications",
+    "sourceUrl": "https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-sxt-w",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "3.4K Open Gate ARRIRAW",
+        "width": 3424,
+        "height": 2202,
+        "aspectRatio": "3424:2202",
+        "activeWidthMm": 28.25,
+        "activeHeightMm": 18.17,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "2.8K 16:9 ARRIRAW",
+        "width": 2880,
+        "height": 1620,
+        "aspectRatio": "2880:1620",
+        "activeWidthMm": 23.76,
+        "activeHeightMm": 13.37,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "sony-venice-2-8k",
+    "manufacturer": "Sony",
+    "model": "VENICE 2 8K",
+    "sensorName": "Full Frame 8.6K",
+    "sensorWidthMm": 35.9,
+    "sensorHeightMm": 24.0,
+    "sensorType": "CMOS",
+    "sourceName": "Sony official specifications",
+    "sourceUrl": "https://pro.sony/ue_US/products/digital-cinema-cameras/venice2",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "8.6K 3:2",
+        "width": 8640,
+        "height": 5760,
+        "aspectRatio": "8640:5760",
+        "activeWidthMm": 35.9,
+        "activeHeightMm": 24.0,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "8.6K 17:9",
+        "width": 8640,
+        "height": 4556,
+        "aspectRatio": "8640:4556",
+        "activeWidthMm": 35.9,
+        "activeHeightMm": 19.0,
+        "verified": true
+      },
+      {
+        "id": "2",
+        "name": "5.8K 17:9 S35",
+        "width": 5792,
+        "height": 3056,
+        "aspectRatio": "5792:3056",
+        "activeWidthMm": 24.1,
+        "activeHeightMm": 12.7,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "sony-venice-2-6k",
+    "manufacturer": "Sony",
+    "model": "VENICE 2 6K",
+    "sensorName": "Full Frame 6K",
+    "sensorWidthMm": 35.9,
+    "sensorHeightMm": 24.0,
+    "sensorType": "CMOS",
+    "sourceName": "Sony official specifications",
+    "sourceUrl": "https://pro.sony/ue_US/products/digital-cinema-cameras/venice2",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K 3:2",
+        "width": 6048,
+        "height": 4032,
+        "aspectRatio": "6048:4032",
+        "activeWidthMm": 35.9,
+        "activeHeightMm": 24.0,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "4K 17:9 S35",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 24.3,
+        "activeHeightMm": 12.8,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "sony-burano",
+    "manufacturer": "Sony",
+    "model": "BURANO",
+    "sensorName": "Full Frame 8.6K",
+    "sensorWidthMm": 35.9,
+    "sensorHeightMm": 20.2,
+    "sensorType": "CMOS",
+    "sourceName": "Sony official specifications",
+    "sourceUrl": "https://pro.sony/en_GB/products/digital-cinema-cameras/burano",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "FF 8.6K 16:9 XAVC",
+        "width": 7680,
+        "height": 4320,
+        "aspectRatio": "7680:4320",
+        "activeWidthMm": 35.9,
+        "activeHeightMm": 20.2,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "FF 8.6K 17:9 XAVC",
+        "width": 8192,
+        "height": 4320,
+        "aspectRatio": "8192:4320",
+        "activeWidthMm": 35.9,
+        "activeHeightMm": 18.9,
+        "verified": true
+      },
+      {
+        "id": "2",
+        "name": "FFc 6K 16:9 XAVC",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": 33.6,
+        "activeHeightMm": 18.9,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "sony-fx3",
+    "manufacturer": "Sony",
+    "model": "FX3",
+    "sensorName": "Exmor R Full Frame",
+    "sensorWidthMm": 35.6,
+    "sensorHeightMm": 23.8,
+    "sensorType": "CMOS",
+    "sourceName": "Sony official specifications",
+    "sourceUrl": "https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "UHD",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": null,
+        "activeHeightMm": null,
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "canon-eos-c400",
+    "manufacturer": "Canon",
+    "model": "EOS C400",
+    "sensorName": "Full Frame BSI",
+    "sensorWidthMm": 36.0,
+    "sensorHeightMm": 19.0,
+    "sensorType": "CMOS",
+    "sourceName": "Canon official specifications",
+    "sourceUrl": "https://www.canon-europe.com/cameras/eos-c400/specifications/",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K RAW Full Frame",
+        "width": 6000,
+        "height": 3164,
+        "aspectRatio": "6000:3164",
+        "activeWidthMm": 36.0,
+        "activeHeightMm": 19.0,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "DCI 4K Full Frame",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 36.0,
+        "activeHeightMm": 19.0,
+        "verified": true
+      },
+      {
+        "id": "2",
+        "name": "UHD Full Frame",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": 33.8,
+        "activeHeightMm": 19.0,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "canon-eos-c500-mark-ii",
+    "manufacturer": "Canon",
+    "model": "EOS C500 Mark II",
+    "sensorName": "Full Frame",
+    "sensorWidthMm": 38.1,
+    "sensorHeightMm": 20.1,
+    "sensorType": "CMOS",
+    "sourceName": "Canon official specifications",
+    "sourceUrl": "https://www.canon-europe.com/video-cameras/eos-c500-mark-ii/specifications/",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "5.9K RAW Full Frame",
+        "width": 5952,
+        "height": 3140,
+        "aspectRatio": "5952:3140",
+        "activeWidthMm": 38.1,
+        "activeHeightMm": 20.1,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "DCI 4K Full Frame",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 38.1,
+        "activeHeightMm": 20.1,
+        "verified": true
+      },
+      {
+        "id": "2",
+        "name": "UHD Full Frame",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": 35.7,
+        "activeHeightMm": 20.1,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "canon-eos-c300-mark-iii",
+    "manufacturer": "Canon",
+    "model": "EOS C300 Mark III",
+    "sensorName": "Super 35 DGO",
+    "sensorWidthMm": 26.2,
+    "sensorHeightMm": 13.8,
+    "sensorType": "CMOS",
+    "sourceName": "Canon official specifications",
+    "sourceUrl": "https://www.canon-europe.com/video-cameras/eos-c300-mark-iii/specifications/",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "DCI 4K Super 35",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 26.2,
+        "activeHeightMm": 13.8,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "UHD Super 35",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": 24.6,
+        "activeHeightMm": 13.8,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "canon-eos-c70",
+    "manufacturer": "Canon",
+    "model": "EOS C70",
+    "sensorName": "Super 35 DGO",
+    "sensorWidthMm": 26.2,
+    "sensorHeightMm": 13.8,
+    "sensorType": "CMOS",
+    "sourceName": "Canon official specifications",
+    "sourceUrl": "https://www.canon-europe.com/video-cameras/eos-c70/specifications/",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "DCI 4K Super 35",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 26.2,
+        "activeHeightMm": 13.8,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "UHD Super 35",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": 24.6,
+        "activeHeightMm": 13.8,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "red-v-raptor-8k-vv",
+    "manufacturer": "RED",
+    "model": "V-RAPTOR 8K VV",
+    "sensorName": "VV",
+    "sensorWidthMm": 40.96,
+    "sensorHeightMm": 21.6,
+    "sensorType": "CMOS",
+    "sourceName": "RED official specifications",
+    "sourceUrl": "https://docs.red.com/955-0199/955-0199_V1.0_Rev_A%20RED_PS_V-RAPTOR_Operation_Guide/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "8K 17:9",
+        "width": 8192,
+        "height": 4320,
+        "aspectRatio": "8192:4320",
+        "activeWidthMm": 40.96,
+        "activeHeightMm": 21.6,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "red-komodo",
+    "manufacturer": "RED",
+    "model": "KOMODO",
+    "sensorName": "Super 35 Global Shutter",
+    "sensorWidthMm": 27.03,
+    "sensorHeightMm": 14.26,
+    "sensorType": "CMOS",
+    "sourceName": "RED official specifications",
+    "sourceUrl": "https://docs.red.com/955-0190_v1.3/955-0190_v1.3_REV-1.3_RED_PS_KOMODO_Operation_Guide/Content/4_Menus/ProjSet/Format.htm",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K 17:9",
+        "width": 6144,
+        "height": 3240,
+        "aspectRatio": "6144:3240",
+        "activeWidthMm": 27.03,
+        "activeHeightMm": 14.26,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "6K 2.4:1",
+        "width": 6144,
+        "height": 2592,
+        "aspectRatio": "6144:2592",
+        "activeWidthMm": 27.03,
+        "activeHeightMm": 11.4,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "red-komodo-x",
+    "manufacturer": "RED",
+    "model": "KOMODO-X",
+    "sensorName": "Super 35 Global Shutter",
+    "sensorWidthMm": 27.03,
+    "sensorHeightMm": 14.26,
+    "sensorType": "CMOS",
+    "sourceName": "RED official specifications",
+    "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-B%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide%20HTML/Content/A_TechSpecs/Specs_KOMODO-X.htm",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K 17:9",
+        "width": 6144,
+        "height": 3240,
+        "aspectRatio": "6144:3240",
+        "activeWidthMm": 27.03,
+        "activeHeightMm": 14.26,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-pyxis-6k",
+    "manufacturer": "Blackmagic Design",
+    "model": "PYXIS 6K",
+    "sensorName": "Full Frame",
+    "sensorWidthMm": 36.0,
+    "sensorHeightMm": 24.0,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicpyxis/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K Open Gate",
+        "width": 6048,
+        "height": 4032,
+        "aspectRatio": "6048:4032",
+        "activeWidthMm": 36.0,
+        "activeHeightMm": 24.0,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-pyxis-12k",
+    "manufacturer": "Blackmagic Design",
+    "model": "PYXIS 12K",
+    "sensorName": "RGBW Large Format",
+    "sensorWidthMm": 35.64,
+    "sensorHeightMm": 23.32,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicpyxis/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "12K Open Gate",
+        "width": 12288,
+        "height": 8040,
+        "aspectRatio": "12288:8040",
+        "activeWidthMm": 35.64,
+        "activeHeightMm": 23.32,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-ursa-mini-pro-12k",
+    "manufacturer": "Blackmagic Design",
+    "model": "URSA Mini Pro 12K",
+    "sensorName": "RGBW Super 35",
+    "sensorWidthMm": 27.03,
+    "sensorHeightMm": 14.25,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "12K DCI",
+        "width": 12288,
+        "height": 6480,
+        "aspectRatio": "12288:6480",
+        "activeWidthMm": 27.03,
+        "activeHeightMm": 14.25,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-ursa-mini-pro-4.6k-g2",
+    "manufacturer": "Blackmagic Design",
+    "model": "URSA Mini Pro 4.6K G2",
+    "sensorName": "Super 35",
+    "sensorWidthMm": 25.34,
+    "sensorHeightMm": 14.25,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "4.6K",
+        "width": 4608,
+        "height": 2592,
+        "aspectRatio": "4608:2592",
+        "activeWidthMm": 25.34,
+        "activeHeightMm": 14.25,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-pocket-cinema-camera-6k-pro",
+    "manufacturer": "Blackmagic Design",
+    "model": "Pocket Cinema Camera 6K Pro",
+    "sensorName": "Super 35",
+    "sensorWidthMm": 23.1,
+    "sensorHeightMm": 12.99,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K",
+        "width": 6144,
+        "height": 3456,
+        "aspectRatio": "6144:3456",
+        "activeWidthMm": 23.1,
+        "activeHeightMm": 12.99,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-pocket-cinema-camera-6k-g2",
+    "manufacturer": "Blackmagic Design",
+    "model": "Pocket Cinema Camera 6K G2",
+    "sensorName": "Super 35",
+    "sensorWidthMm": 23.1,
+    "sensorHeightMm": 12.99,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K",
+        "width": 6144,
+        "height": 3456,
+        "aspectRatio": "6144:3456",
+        "activeWidthMm": 23.1,
+        "activeHeightMm": 12.99,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-pocket-cinema-camera-4k",
+    "manufacturer": "Blackmagic Design",
+    "model": "Pocket Cinema Camera 4K",
+    "sensorName": "Four Thirds",
+    "sensorWidthMm": 18.96,
+    "sensorHeightMm": 10.0,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "4K DCI",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 18.96,
+        "activeHeightMm": 10.0,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "panasonic-au-eva1",
+    "manufacturer": "Panasonic",
+    "model": "AU-EVA1",
+    "sensorName": "Super 35 5.7K",
+    "sensorWidthMm": 24.6,
+    "sensorHeightMm": 12.97,
+    "sensorType": "CMOS",
+    "sourceName": "Panasonic official specifications",
+    "sourceUrl": "https://pro-av.panasonic.net/en/cinema_camera_varicam_eva/products/eva1/",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "5.7K sensor / DCI 4K output",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 24.6,
+        "activeHeightMm": 12.97,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "panasonic-lumix-s1h",
+    "manufacturer": "Panasonic",
+    "model": "LUMIX S1H",
+    "sensorName": "Full Frame",
+    "sensorWidthMm": 35.6,
+    "sensorHeightMm": 23.8,
+    "sensorType": "CMOS",
+    "sourceName": "Panasonic official specifications",
+    "sourceUrl": "https://www.panasonic.com/in/consumer/cameras-camcorders/camera/s/dc-s1h.specs.html",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K 3:2",
+        "width": 5952,
+        "height": 3968,
+        "aspectRatio": "5952:3968",
+        "activeWidthMm": null,
+        "activeHeightMm": null,
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "arri-alexa-xt",
+    "manufacturer": "ARRI",
+    "model": "ALEXA XT",
+    "sensorName": "ALEV III Super 35",
+    "sensorWidthMm": 28.17,
+    "sensorHeightMm": 18.13,
+    "sensorType": "CMOS",
+    "sourceName": "ARRI official specifications",
+    "sourceUrl": "https://www.arri.com/resource/blob/178012/d6a32bdbaee788486bce45ec1de9e4f1/alexa-classic-and-xt-recording-areas-surround-views-framelines-sup-11-data.pdf",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "Open Gate ARRIRAW",
+        "width": 3414,
+        "height": 2198,
+        "aspectRatio": "3414:2198",
+        "activeWidthMm": 28.17,
+        "activeHeightMm": 18.13,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "4:3 ARRIRAW",
+        "width": 2880,
+        "height": 2160,
+        "aspectRatio": "2880:2160",
+        "activeWidthMm": 23.76,
+        "activeHeightMm": 17.82,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "sony-venice",
+    "manufacturer": "Sony",
+    "model": "VENICE",
+    "sensorName": "Full Frame 6K",
+    "sensorWidthMm": 35.9,
+    "sensorHeightMm": 24.0,
+    "sensorType": "CMOS",
+    "sourceName": "Sony official specifications",
+    "sourceUrl": "https://pro.sony/en_GB/products/digital-cinema-cameras/venice",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K 3:2",
+        "width": 6048,
+        "height": 4032,
+        "aspectRatio": "6048:4032",
+        "activeWidthMm": 35.9,
+        "activeHeightMm": 24.0,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "4K 17:9 S35",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 24.3,
+        "activeHeightMm": 12.8,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "sony-fx6",
+    "manufacturer": "Sony",
+    "model": "FX6",
+    "sensorName": "Full Frame",
+    "sensorWidthMm": null,
+    "sensorHeightMm": null,
+    "sensorType": "CMOS",
+    "sourceName": "Sony official specifications",
+    "sourceUrl": "https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "UHD",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": null,
+        "activeHeightMm": null,
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "sony-fx9",
+    "manufacturer": "Sony",
+    "model": "FX9",
+    "sensorName": "Full Frame 6K",
+    "sensorWidthMm": null,
+    "sensorHeightMm": null,
+    "sensorType": "CMOS",
+    "sourceName": "Sony official specifications",
+    "sourceUrl": "https://pro.sony/s3/2024/02/12095925/Sony_Cinema_Line_Chart_2024.pdf",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "UHD",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": null,
+        "activeHeightMm": null,
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "canon-eos-c80",
+    "manufacturer": "Canon",
+    "model": "EOS C80",
+    "sensorName": "Full Frame BSI",
+    "sensorWidthMm": 36.0,
+    "sensorHeightMm": 19.0,
+    "sensorType": "CMOS",
+    "sourceName": "Canon official specifications",
+    "sourceUrl": "https://www.canon.ca/dam/products/BUSINESS-UNIT/ITCG/Video-Cameras/Cinema-EOS-Cameras/EOS-C80/EOS-C80-Specifications.pdf",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K RAW Full Frame",
+        "width": 6000,
+        "height": 3164,
+        "aspectRatio": "6000:3164",
+        "activeWidthMm": 36.0,
+        "activeHeightMm": 19.0,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "DCI 4K Full Frame",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": 36.0,
+        "activeHeightMm": 19.0,
+        "verified": true
+      },
+      {
+        "id": "2",
+        "name": "UHD Full Frame",
+        "width": 3840,
+        "height": 2160,
+        "aspectRatio": "3840:2160",
+        "activeWidthMm": 33.8,
+        "activeHeightMm": 19.0,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "red-v-raptor-[x]-8k-vv",
+    "manufacturer": "RED",
+    "model": "V-RAPTOR [X] 8K VV",
+    "sensorName": "VV Global Shutter",
+    "sensorWidthMm": 40.96,
+    "sensorHeightMm": 21.6,
+    "sensorType": "CMOS",
+    "sourceName": "RED official specifications",
+    "sourceUrl": "https://docs.red.com/955-0225/955-0225_V2.0%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide/Content/4_Menus/b_ProjSet/Format/VV_8K.htm",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "8K 17:9",
+        "width": 8192,
+        "height": 4320,
+        "aspectRatio": "8192:4320",
+        "activeWidthMm": 40.96,
+        "activeHeightMm": 21.6,
+        "verified": true
+      },
+      {
+        "id": "1",
+        "name": "8K 16:9",
+        "width": 7680,
+        "height": 4320,
+        "aspectRatio": "7680:4320",
+        "activeWidthMm": 38.4,
+        "activeHeightMm": 21.6,
+        "verified": true
+      },
+      {
+        "id": "2",
+        "name": "8K 2.4:1",
+        "width": 8192,
+        "height": 3456,
+        "aspectRatio": "8192:3456",
+        "activeWidthMm": 40.96,
+        "activeHeightMm": 17.28,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "red-v-raptor-xl-8k-vv",
+    "manufacturer": "RED",
+    "model": "V-RAPTOR XL 8K VV",
+    "sensorName": "VV",
+    "sensorWidthMm": 40.96,
+    "sensorHeightMm": 21.6,
+    "sensorType": "CMOS",
+    "sourceName": "RED official specifications",
+    "sourceUrl": "https://docs.red.com/955-0203/955-0203_V1.7%20Rev-B%20RED%20PS%2C%20V-RAPTOR%20XL%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "8K 17:9",
+        "width": 8192,
+        "height": 4320,
+        "aspectRatio": "8192:4320",
+        "activeWidthMm": 40.96,
+        "activeHeightMm": 21.6,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-cinema-camera-6k",
+    "manufacturer": "Blackmagic Design",
+    "model": "Cinema Camera 6K",
+    "sensorName": "Full Frame",
+    "sensorWidthMm": 36.0,
+    "sensorHeightMm": 24.0,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagiccinemacamera/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K Open Gate",
+        "width": 6048,
+        "height": 4032,
+        "aspectRatio": "6048:4032",
+        "activeWidthMm": 36.0,
+        "activeHeightMm": 24.0,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "blackmagic-design-ursa-cine-12k-lf",
+    "manufacturer": "Blackmagic Design",
+    "model": "URSA Cine 12K LF",
+    "sensorName": "RGBW Large Format",
+    "sensorWidthMm": 35.64,
+    "sensorHeightMm": 23.32,
+    "sensorType": "CMOS",
+    "sourceName": "Blackmagic Design official specifications",
+    "sourceUrl": "https://www.blackmagicdesign.com/mx/products/blackmagicursacine/techspecs",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "12K Open Gate",
+        "width": 12288,
+        "height": 8040,
+        "aspectRatio": "12288:8040",
+        "activeWidthMm": 35.64,
+        "activeHeightMm": 23.32,
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "panasonic-lumix-bs1h",
+    "manufacturer": "Panasonic",
+    "model": "LUMIX BS1H",
+    "sensorName": "Full Frame",
+    "sensorWidthMm": 35.6,
+    "sensorHeightMm": 23.8,
+    "sensorType": "CMOS",
+    "sourceName": "Panasonic official specifications",
+    "sourceUrl": "https://www.panasonic.com/in/consumer/cameras-camcorders/camera/lumix-box-style-cameras/dc-bs1h.specs.html",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "6K 3:2",
+        "width": 5952,
+        "height": 3968,
+        "aspectRatio": "5952:3968",
+        "activeWidthMm": null,
+        "activeHeightMm": null,
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "panasonic-varicam-lt",
+    "manufacturer": "Panasonic",
+    "model": "VariCam LT",
+    "sensorName": "Super 35 MOS",
+    "sensorWidthMm": null,
+    "sensorHeightMm": null,
+    "sensorType": "CMOS",
+    "sourceName": "Panasonic official specifications",
+    "sourceUrl": "https://pro-av.panasonic.net/manual/html/VARICAM_LT%28VQT5M58A-10%28E%29%29/chapter13_01_02.htm",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "DCI 4K",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": null,
+        "activeHeightMm": null,
+        "verified": false
+      }
+    ]
+  },
+  {
+    "id": "panasonic-varicam-35",
+    "manufacturer": "Panasonic",
+    "model": "VariCam 35",
+    "sensorName": "Super 35 MOS",
+    "sensorWidthMm": null,
+    "sensorHeightMm": null,
+    "sensorType": "CMOS",
+    "sourceName": "Panasonic official specifications",
+    "sourceUrl": "https://pro-av.panasonic.net/en/cinema_camera_varicam_eva/products/",
+    "verifiedDate": "2026-09-07",
+    "verified": true,
+    "notesEn": "Select the exact recording mode. Focal length is entered separately.",
+    "notesTr": "Tam kayıt modunu seçin. Odak uzaklığı ayrıca girilir.",
+    "modes": [
+      {
+        "id": "0",
+        "name": "DCI 4K",
+        "width": 4096,
+        "height": 2160,
+        "aspectRatio": "4096:2160",
+        "activeWidthMm": null,
+        "activeHeightMm": null,
+        "verified": false
+      }
+    ]
+  }
+]

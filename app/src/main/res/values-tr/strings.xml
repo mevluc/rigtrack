@@ -1,0 +1,357 @@
+<resources>
+    <string name="app_name" formatted="false">RigTrack</string>
+    <string name="back" formatted="false">Geri</string>
+    <string name="home" formatted="false">Çalışma alanı</string>
+    <string name="home_intro" formatted="false">Post prodüksiyona hazır kamera takibi.</string>
+    <string name="home_detail" formatted="false">Telefonu kameraya sabitleyin, referansı belirleyin, kayda başlayın.</string>
+    <string name="new_shot" formatted="false">Yeni çekim</string>
+    <string name="recordings" formatted="false">Kayıtlar</string>
+    <string name="rig_profiles" formatted="false">Rig profilleri</string>
+    <string name="marker_maps" formatted="false">Marker haritaları</string>
+    <string name="calibration" formatted="false">Kamera kalibrasyonu</string>
+    <string name="generator" formatted="false">Marker üretici</string>
+    <string name="guide" formatted="false">Kullanım kılavuzu</string>
+    <string name="settings" formatted="false">Ayarlar</string>
+    <string name="diagnostics" formatted="false">Tanılama</string>
+    <string name="new_shot_hint" formatted="false">Film kamerasını ve rigi ayarlayın.</string>
+    <string name="recordings_hint" formatted="false">Çekimleri inceleyin ve dışa aktarın</string>
+    <string name="rig_hint" formatted="false">Telefon ile film kamerasının hizası</string>
+    <string name="maps_hint" formatted="false">Set için sabit referanslar</string>
+    <string name="calibration_hint" formatted="false">Marker poz doğruluğunu iyileştirin</string>
+    <string name="generator_hint" formatted="false">Markerları tam fiziksel boyutta yazdırın</string>
+    <string name="guide_hint" formatted="false">Montajdan Blender aktarımına</string>
+    <string name="settings_hint" formatted="false">Dil ve çekim tercihleri</string>
+    <string name="diagnostics_hint" formatted="false">Cihaz ve işlem hattı bilgileri</string>
+    <string name="home_recordings_description" formatted="false">Çekimleri inceleyin ve dışa aktarın.</string>
+    <string name="home_rig_profiles_description" formatted="false">Telefon–kamera konumunu tanımlayın.</string>
+    <string name="home_marker_maps_description" formatted="false">Set marker referanslarını yönetin.</string>
+    <string name="home_camera_calibration_description" formatted="false">Telefon kamerasını ChArUco ile kalibre edin.</string>
+    <string name="home_marker_generator_description" formatted="false">Marker ve ChArUco PDF’leri üretin.</string>
+    <string name="home_guide_description" formatted="false">RigTrack’i adım adım öğrenin.</string>
+    <string name="home_settings_description" formatted="false">Dil ve takip tercihlerini düzenleyin.</string>
+    <string name="home_diagnostics_description" formatted="false">Sistem, sensör ve sürüm bilgilerini görün.</string>
+    <string name="save" formatted="false">Kaydet</string>
+    <string name="cancel" formatted="false">Vazgeç</string>
+    <string name="close" formatted="false">Kapat</string>
+    <string name="start" formatted="false">Başlat</string>
+    <string name="continue_action" formatted="false">Devam</string>
+    <string name="skip" formatted="false">Atla</string>
+    <string name="done" formatted="false">Tamam</string>
+    <string name="delete" formatted="false">Sil</string>
+    <string name="rename" formatted="false">Yeniden adlandır</string>
+    <string name="duplicate" formatted="false">Bu ayarları kullan</string>
+    <string name="export" formatted="false">.vfxtrack dışa aktar</string>
+    <string name="export_csv" formatted="false">Blender CSV dışa aktar</string>
+    <string name="details" formatted="false">Ayrıntılar</string>
+    <string name="advanced" formatted="false">Gelişmiş</string>
+    <string name="name" formatted="false">Ad</string>
+    <string name="shot_name" formatted="false">Çekim adı</string>
+    <string name="camera" formatted="false">Film kamerası</string>
+    <string name="camera_preset" formatted="false">Kamera ön ayarı</string>
+    <string name="search" formatted="false">Üretici veya model ara</string>
+    <string name="custom_camera" formatted="false">Özel kamera</string>
+    <string name="capture_mode" formatted="false">Çekim modu</string>
+    <string name="fps" formatted="false">Film FPS</string>
+    <string name="focal" formatted="false">Odak uzaklığı (mm)</string>
+    <string name="sensor_width" formatted="false">Aktif sensör genişliği (mm)</string>
+    <string name="sensor_height" formatted="false">Aktif sensör yüksekliği (mm)</string>
+    <string name="resolution_width" formatted="false">Görüntü genişliği (px)</string>
+    <string name="resolution_height" formatted="false">Görüntü yüksekliği (px)</string>
+    <string name="focus" formatted="false">Netleme mesafesi (m; 0 = bilinmiyor)</string>
+    <string name="lens" formatted="false">Lens adı</string>
+    <string name="no_map" formatted="false">Harita yok</string>
+    <string name="smoothing" formatted="false">Çevrimdışı yumuşatma</string>
+    <string name="off" formatted="false">Kapalı</string>
+    <string name="low" formatted="false">Düşük</string>
+    <string name="medium" formatted="false">Orta</string>
+    <string name="high" formatted="false">Yüksek</string>
+    <string name="marker_rate" formatted="false">Marker algılama FPS</string>
+    <string name="ar_fps" formatted="false">Tercih edilen AR FPS</string>
+    <string name="auto" formatted="false">Otomatik</string>
+    <string name="developer" formatted="false">Geliştirici modu</string>
+    <string name="synthetic" formatted="false">Sentetik test</string>
+    <string name="synthetic_hint" formatted="false">Simüle hareket. Fiziksel kamera takibi yapılmaz.</string>
+    <string name="motion" formatted="false">Test hareketi</string>
+    <string name="capture" formatted="false">Çekim</string>
+    <string name="origin" formatted="false">Orijin belirle</string>
+    <string name="origin_set" formatted="false">Orijin belirlendi</string>
+    <string name="origin_missing" formatted="false">Kayıttan önce orijini belirleyin</string>
+    <string name="record" formatted="false">Kaydet</string>
+    <string name="stop" formatted="false">Durdur</string>
+    <string name="sync" formatted="false">Senkron</string>
+    <string name="markers" formatted="false">Markerlar</string>
+    <string name="axes" formatted="false">Eksenler</string>
+    <string name="tools" formatted="false">Araçlar</string>
+    <string name="relocalize" formatted="false">Haritayı yeniden hizala</string>
+    <string name="board_reference" formatted="false">Pano referansı</string>
+    <string name="excellent" formatted="false">Mükemmel</string>
+    <string name="good" formatted="false">İyi</string>
+    <string name="fair" formatted="false">Orta</string>
+    <string name="poor" formatted="false">Zayıf</string>
+    <string name="lost" formatted="false">Kayıp</string>
+    <string name="quality" formatted="false">Takip kalitesi</string>
+    <string name="quality_tip" formatted="false">Dokulu yüzeyler, yumuşak hareket ve görünür sabit markerlar kullanın.</string>
+    <string name="quality_good" formatted="false">Referans kararlı. Hareket sırasında markerları görünür tutun.</string>
+    <string name="tracking" formatted="false">Takip ediliyor</string>
+    <string name="initializing" formatted="false">Başlatılıyor</string>
+    <string name="duration" formatted="false">Süre</string>
+    <string name="world_lock" formatted="false">Marker dünya kilidi</string>
+    <string name="enabled" formatted="false">Etkin</string>
+    <string name="disabled" formatted="false">Devre dışı</string>
+    <string name="free_storage" formatted="false">Boş depolama</string>
+    <string name="thermal" formatted="false">Isıl durum</string>
+    <string name="gyro" formatted="false">Jiroskop</string>
+    <string name="accel" formatted="false">İvmeölçer</string>
+    <string name="ar_rate" formatted="false">AR kamera hızı</string>
+    <string name="detector_rate" formatted="false">Algılayıcı hızı</string>
+    <string name="dropped" formatted="false">Atlanan marker kareleri</string>
+    <string name="mapped" formatted="false">Haritalanmış markerlar</string>
+    <string name="technical_details" formatted="false">Teknik ayrıntılar</string>
+    <string name="record_exit_title" formatted="false">Kaydedip çekimden çıkılsın mı?</string>
+    <string name="record_exit_body" formatted="false">Kayıt sürüyor. Çıkmadan önce çekimi durdurup kaydedin.</string>
+    <string name="stop_save" formatted="false">Durdur, kaydet ve çık</string>
+    <string name="double_back" formatted="false">Çıkmak için tekrar geri tuşuna basın</string>
+    <string name="delete_title" formatted="false">Kayıt silinsin mi?</string>
+    <string name="delete_body" formatted="false">Bu çekim ve takip verileri kalıcı olarak silinecek.</string>
+    <string name="empty_recordings" formatted="false">Henüz kayıt yok</string>
+    <string name="empty_recordings_hint" formatted="false">Yeni bir çekim başlatın. Tamamlanan çekimler burada görünür.</string>
+    <string name="empty_maps" formatted="false">Marker haritası yok</string>
+    <string name="empty_maps_hint" formatted="false">İlk çekimden önce sabit markerlardan bir harita oluşturun.</string>
+    <string name="summary" formatted="false">Çekim özeti</string>
+    <string name="exported" formatted="false">Dışa aktarıldı</string>
+    <string name="not_exported" formatted="false">Dışa aktarılmadı</string>
+    <string name="recover" formatted="false">Yarım kalan kaydı kurtar</string>
+    <string name="unfinished" formatted="false">Kayıt kesildi. Dışa aktarmadan önce tamamlanmış satırları kurtarın.</string>
+    <string name="export_complete" formatted="false">Dışa aktarma tamamlandı</string>
+    <string name="saved" formatted="false">Kaydedildi</string>
+    <string name="error_title" formatted="false">İşlem tamamlanamadı</string>
+    <string name="error_generic" formatted="false">Ayarları kontrol edip yeniden deneyin. Teknik ayrıntılar Tanılama ekranında bulunur.</string>
+    <string name="invalid_value" formatted="false">Belirtilen sınırlar içinde geçerli bir değer girin.</string>
+    <string name="origin_required" formatted="false">Takibin başlamasını bekleyip orijini belirleyin.</string>
+    <string name="mapped_required" formatted="false">Seçili haritadaki sabit bir markerı gösterip yeniden deneyin.</string>
+    <string name="stop_first" formatted="false">Referansı değiştirmeden önce kaydı durdurun.</string>
+    <string name="record_first" formatted="false">Senkron işaretinden önce kaydı başlatın.</string>
+    <string name="permission_title" formatted="false">Kamera erişimi</string>
+    <string name="permission_body" formatted="false">RigTrack kamerayı ARCore hareket takibi ve marker algılama için kullanır. Kareler cihazınızda kalır.</string>
+    <string name="permission_denied" formatted="false">Fiziksel takip için Android ayarlarından kamera erişimine izin verin.</string>
+    <string name="open_settings" formatted="false">Android ayarlarını aç</string>
+    <string name="unsupported" formatted="false">Bu cihazda fiziksel takip kullanılamıyor. ARCore desteğini ve kurulumunu kontrol edin.</string>
+    <string name="storage_low" formatted="false">Depolama azaldı. Uzun kayıttan önce eski çekimleri dışa aktarıp silin.</string>
+    <string name="storage_critical" formatted="false">Depolama kritik düzeyde azaldığı için kayıt güvenle durduruldu.</string>
+    <string name="general" formatted="false">Genel</string>
+    <string name="language" formatted="false">Dil</string>
+    <string name="keep_awake" formatted="false">Ekranı açık tut</string>
+    <string name="recording_settings" formatted="false">Kayıt</string>
+    <string name="sound" formatted="false">Senkron sesi</string>
+    <string name="haptic" formatted="false">Senkron titreşimi</string>
+    <string name="interface_settings" formatted="false">Arayüz</string>
+    <string name="about" formatted="false">Hakkında</string>
+    <string name="offline_notice" formatted="false">Çevrimdışı. Hesap, analiz takibi veya buluta yükleme yok.</string>
+    <string name="sync_notice" formatted="false">Senkron, işaretin istenme anını saklar. Gerçek ses, ışık ve titreşim gecikmesi ölçülmez.</string>
+    <string name="reopen_onboarding" formatted="false">Tanıtımı yeniden göster</string>
+    <string name="dictionary" formatted="false">Marker sözlüğü</string>
+    <string name="marker_size" formatted="false">Siyah kare boyutu (mm)</string>
+    <string name="min_area" formatted="false">Minimum marker alanı (px²)</string>
+    <string name="max_error" formatted="false">Maksimum yeniden projeksiyon hatası (px)</string>
+    <string name="correction" formatted="false">Düzeltme gücü (0–1)</string>
+    <string name="confidence" formatted="false">Minimum güven (0–1)</string>
+    <string name="gap" formatted="false">Maksimum ara değer boşluğu (ms)</string>
+    <string name="sensor_period" formatted="false">Sensör aralığı (µs; 0 = en hızlı)</string>
+    <string name="logging" formatted="false">Ayrıntılı tanılama günlüğü</string>
+    <string name="add_profile" formatted="false">Rig profili ekle</string>
+    <string name="horizontal" formatted="false">Yatay ofset (mm; sağ +)</string>
+    <string name="vertical" formatted="false">Dikey ofset (mm; yukarı +)</string>
+    <string name="forward" formatted="false">İleri ofset (mm; ileri +)</string>
+    <string name="yaw" formatted="false">Yatay dönüş (derece)</string>
+    <string name="pitch" formatted="false">Dikey dönüş (derece)</string>
+    <string name="roll" formatted="false">Yatış (derece)</string>
+    <string name="rig_explanation" formatted="false">Telefon optik merkezinden film kamerası optik merkezine ölçün. Bağlantıyı rijit tutun.</string>
+    <string name="rig_axes" formatted="false">Telefon kamera eksenleri: +X sağ, +Y yukarı, −Z ileri. Dönüş sırası: Rz × Ry × Rx.</string>
+    <string name="new_map" formatted="false">Yeni marker haritası</string>
+    <string name="map_name" formatted="false">Harita adı</string>
+    <string name="map_sizes" formatted="false">ID:boyut değerleri (ör. 1:150, 12:200)</string>
+    <string name="map_instruction" formatted="false">Markerları sabit tutun. Orijin belirleyin, farklı açılardan örnek toplayıp kaydedin. Kayıtlı haritayı her yeni AR oturumunda yeniden hizalayın.</string>
+    <string name="collect" formatted="false">Örnek topla</string>
+    <string name="save_map" formatted="false">Haritayı kaydet</string>
+    <string name="samples" formatted="false">Örnekler</string>
+    <string name="solve_calibration" formatted="false">Kalibrasyonu hesapla ve kaydet</string>
+    <string name="calibration_instruction" formatted="false">Aşağıdaki ayarlara uygun panoyu kullanın. Mesafeyi, eğimi ve kadrajdaki konumu değiştirin. En az 15 farklı görünüm toplayın; 25 önerilir.</string>
+    <string name="calibration_apply" formatted="false">Kalibrasyon kaydedildi. Uygulamak için çekimi yeniden açın.</string>
+    <string name="cal_more" formatted="false">Panonun en az altı köşesini gösterin.</string>
+    <string name="cal_closer" formatted="false">Panoyu yaklaştırın.</string>
+    <string name="cal_angle" formatted="false">Panonun açısını ve konumunu değiştirin.</string>
+    <string name="cal_ready" formatted="false">Hesaplama için yeterli örnek var; farklı açılar doğruluğu artırabilir.</string>
+    <string name="cal_good" formatted="false">İyi örnek kabul edildi.</string>
+    <string name="cal_restart" formatted="false">Çözünürlük değişti. Kalibrasyonu yeniden başlatın.</string>
+    <string name="cal_bad" formatted="false">Kalibrasyon yeterli doğrulukta hesaplanamadı. Daha net ve farklı açılardan örnekler toplayın.</string>
+    <string name="marker_tab" formatted="false">Markerlar</string>
+    <string name="charuco_tab" formatted="false">ChArUco panosu</string>
+    <string name="first_id" formatted="false">İlk ID</string>
+    <string name="last_id" formatted="false">Son ID</string>
+    <string name="paper" formatted="false">Kâğıt</string>
+    <string name="orientation" formatted="false">Yön</string>
+    <string name="portrait" formatted="false">Dikey</string>
+    <string name="landscape" formatted="false">Yatay</string>
+    <string name="multi_page" formatted="false">Sayfa başına birden çok marker</string>
+    <string name="labels" formatted="false">Etiketleri yazdır</string>
+    <string name="ruler" formatted="false">100 mm kontrol cetveli</string>
+    <string name="preview" formatted="false">Önizleme</string>
+    <string name="save_pdf" formatted="false">PDF kaydet</string>
+    <string name="print_warning" formatted="false">%100 / Gerçek boyutta yazdırın. Sayfaya sığdır seçeneğini kapatın. Kullanmadan önce siyah kareyi ölçün.</string>
+    <string name="paper_fit" formatted="false">Seçili desen güvenli kenar boşluklarıyla kâğıda sığmıyor. Daha büyük kâğıt veya daha küçük desen seçin.</string>
+    <string name="board_columns" formatted="false">Pano sütunları</string>
+    <string name="board_rows" formatted="false">Pano satırları</string>
+    <string name="square_size" formatted="false">Kare boyutu (mm)</string>
+    <string name="board_marker_size" formatted="false">İç marker boyutu (mm)</string>
+    <string name="board_match" formatted="false">Bu ayarlar basılı kalibrasyon panosuyla aynı olmalıdır.</string>
+    <string name="verified" formatted="false">Üretici kaynağı doğrulandı</string>
+    <string name="unverified_area" formatted="false">Aktif kayıt alanı doğrulanmadı. Kayıt modunuzun aktif boyutlarını girin.</string>
+    <string name="source" formatted="false">Kaynak</string>
+    <string name="sensor" formatted="false">Sensör</string>
+    <string name="onboard_1" formatted="false">RigTrack</string>
+    <string name="onboard_1_body" formatted="false">Telefonunuzu profesyonel bir kamera takip sistemine dönüştürün. RigTrack, telefonun kamera ve hareket sensörlerini kullanarak film kamerasının 6DoF hareketini kaydeder.</string>
+    <string name="onboard_2" formatted="false">VFX için kamera hareketi</string>
+    <string name="onboard_2_body" formatted="false">ARCore, hareket sensörleri ve fiziksel marker referanslarını birlikte kullanarak kamera hareketinizi post prodüksiyon için kaydedin.</string>
+    <string name="onboard_3" formatted="false">Blender’a hazır</string>
+    <string name="onboard_3_body" formatted="false">Çekim bittikten sonra kamera hareketini dışa aktarın ve gerçek kamera hareketini Blender sahnenize taşıyın.</string>
+    <string name="get_started" formatted="false">Başla</string>
+    <string name="reference_video" formatted="false">Referans Videosu</string>
+    <string name="reference_video_off" formatted="false">Kapalı</string>
+    <string name="reference_video_720p" formatted="false">720p</string>
+    <string name="reference_video_1080p" formatted="false">1080p</string>
+    <string name="reference_video_hint" formatted="false">Çekimi incelemek ve tanımak için hafif bir görsel kopyadır. Prodüksiyon ana görüntüsü değildir.</string>
+    <string name="reference_video_storage_warning" formatted="false">Referans videosu için yeterli depolama alanı olmayabilir.</string>
+    <string name="reference_video_failed" formatted="false">Referans videosu başlatılamadı. Kamera takibi video olmadan devam ediyor.</string>
+    <string name="reference_video_recording" formatted="false">Referans ●</string>
+    <string name="saving_shot" formatted="false">Çekim kaydediliyor…</string>
+    <string name="watch_reference_video" formatted="false">Referans Videosunu İzle</string>
+    <string name="reference_video_unavailable" formatted="false">Bu çekim için referans videosu bulunmuyor.</string>
+    <string name="reference_video_delete_body" formatted="false">Bu çekim, takip verileri ve referans videosu kalıcı olarak silinecek.</string>
+    <string name="export_section" formatted="false">Dışa aktar</string>
+    <string name="shot_actions" formatted="false">Çekim işlemleri</string>
+    <string name="danger_zone" formatted="false">Tehlikeli işlemler</string>
+    <string name="view_details" formatted="false">Ayrıntıları gör</string>
+    <string name="new_shot_same_settings" formatted="false">Bu ayarlarla yeni çekim</string>
+    <string name="developer_label" formatted="false">Geliştirici</string>
+    <string name="version_label" formatted="false">Sürüm</string>
+    <string name="about_description" formatted="false">RigTrack, film ve VFX prodüksiyonları için telefon tabanlı 6DoF kamera hareket takip aracıdır.</string>
+    <string name="video_resolution" formatted="false">Video çözünürlüğü</string>
+    <string name="video_frame_rate" formatted="false">Video kare hızı</string>
+    <string name="onboard_4" formatted="false">Hareketi Blender aktarın</string>
+    <string name="onboard_4_body" formatted="false">.vfxtrack dosyasını dışa aktarın. Sağlanan Blender içe aktarıcısıyla açıp senkron işaretini görüntüyle hizalayın.</string>
+    <string name="no_offset" formatted="false">Ofset yok</string>
+    <string name="motion_circle" formatted="false">Daire</string>
+    <string name="motion_forward" formatted="false">İleri / geri</string>
+    <string name="motion_pan" formatted="false">Yatay dönüş</string>
+    <string name="motion_orbit" formatted="false">Yörünge</string>
+    <string name="motion_test" formatted="false">Test yörüngesi</string>
+    <string name="stats" formatted="false">İstatistikler</string>
+    <string name="area_confirm" formatted="false">Bu kayıt modunun aktif sensör boyutlarını doğruladım</string>
+    <string name="thermal_none" formatted="false">Normal</string>
+    <string name="thermal_light" formatted="false">Hafif</string>
+    <string name="thermal_moderate" formatted="false">Orta</string>
+    <string name="thermal_severe" formatted="false">Yüksek</string>
+    <string name="thermal_critical" formatted="false">Kritik</string>
+    <string name="thermal_emergency" formatted="false">Acil</string>
+    <string name="thermal_shutdown" formatted="false">Kapanma</string>
+    <string name="unavailable" formatted="false">Kullanılamıyor</string>
+    <string name="film_frames" formatted="false">Film kareleri</string>
+    <string name="invalid_frames" formatted="false">Geçersiz kareler</string>
+    <string name="lost_duration" formatted="false">Takip kayıp süresi</string>
+    <string name="world_corrections" formatted="false">Dünya referansı düzeltmeleri</string>
+    <string name="mean_error" formatted="false">Ortalama yeniden projeksiyon hatası</string>
+    <string name="page_number" formatted="false">Sayfa</string>
+    <string name="previous" formatted="false">Önceki</string>
+    <string name="next" formatted="false">Sonraki</string>
+    <string name="guide_quick_title" formatted="false">Hızlı başlangıç</string>
+    <string name="guide_quick_body" formatted="false">1. Telefonu kameraya sabitleyin. 2. Ölçtüğünüz rig ofsetini ve film kamera ayarlarını girin. 3. Telefon lensini ChArUco ile kalibre edin. 4. Sabit markerlar yerleştirip harita oluşturun. 5. Çekimi açın, takibi bekleyin, kayıtlı haritayı yeniden hizalayın veya yeni orijin belirleyin. 6. Kaydı başlatıp senkron işaretleri ekleyin. 7. Durdurun, dışa aktarın ve Blender içine alın.</string>
+    <string name="guide_how_title" formatted="false">Takip nasıl çalışır?</string>
+    <string name="guide_how_body" formatted="false">ARCore, görüntülerden ve atalet sensörlerinden fiziksel telefon kamerasının hareketini kestirir. RigTrack bu pozu bir anchor referansına göre kaydeder. Haritalanmış sabit markerlar ek dünya referansı sağlar. Ölçülmüş rijit ofset, telefon pozunu film kamerası pozuna dönüştürür. Ham IMU örnekleri ayrı tanılama verisidir; bağımsız ikinci bir konum çözümü değildir.</string>
+    <string name="guide_mount_title" formatted="false">Telefon montajı</string>
+    <string name="guide_mount_body" formatted="false">Rijit bir kelepçe kullanıp tüm bağlantıları sıkın. Telefon kamerası hareket boyunca çevreyi görmelidir. Esnek kollardan, gevşek kılıflardan ve çekim sırasında telefona dokunmaktan kaçının. Telefon ile kamera hizasının değişmesi rig profilini geçersiz kılar. Lens veya aksesuar değişiminden sonra hizayı kontrol edin. Asıl çekimden önce kısa bir deneme yapın.</string>
+    <string name="guide_rig_title" formatted="false">Rig ofseti ve dönüşü</string>
+    <string name="guide_rig_body" formatted="false">Telefon optik merkezinden film kamerasının optik merkezine milimetreyle ölçün. Pozitif yatay sağa, pozitif dikey yukarıya; editörde pozitif ileri sahneye doğrudur. İç koordinatlarda kamera ilerisi −Z yönüdür. Kameralar paralel değilse dikey dönüş, yatay dönüş ve yatış girin. Dönüş bileşimi Rz × Ry × Rx şeklindedir. Yanlış ofsetler özellikle dönüşte görünür hale gelir.</string>
+    <string name="guide_camera_title" formatted="false">Kamera ön ayarları ve görüş açısı</string>
+    <string name="guide_camera_body" formatted="false">Yalnızca kamera modelini değil, tam kayıt modunu seçin. Kırpma nedeniyle aktif sensör boyutları fiziksel sensörden farklı olabilir. Çıktı piksel boyutları tek başına aktif sensör boyutunu kanıtlamaz. Doğrulanmış mod boyutlarını kullanın veya üreticinin belirttiği aktif alanı girin. Çekimde kullanılan odak uzaklığını ayrıca girin. Netleme soluması ve lens distorsiyonu eşleşmeyi etkileyebilir.</string>
+    <string name="guide_cal_title" formatted="false">Telefon kamerası kalibrasyonu</string>
+    <string name="guide_cal_body" formatted="false">Kalibrasyon ayarlarıyla aynı sözlük, satır, sütun, kare ve iç marker boyutunda ChArUco panosu üretin. Gerçek boyutta basıp düz tutun. En az altı köşeyi gösterin. Mesafeyi, eğimi ve kadrajdaki konumu değiştirin; aynı görünümü tekrarlamak yararlı örnek eklemez. En az 15 farklı görünüm gerekir, 25 önerilir. Hesaplayıp kaydedin ve çekimi yeniden açın. Profil cihaz, kamera ve AR yapılandırmasına bağlıdır.</string>
+    <string name="guide_print_title" formatted="false">Marker yazdırma</string>
+    <string name="guide_print_body" formatted="false">Marker boyutu kâğıdın veya beyaz boşluğun değil, siyah karenin dış kenarıdır. %100 / Gerçek boyut kullanıp Sayfaya sığdır seçeneğini kapatın. Kareyi ve isteğe bağlı 100 mm cetveli gerçek cetvelle ölçün. İstenen boyut sığmıyorsa daha büyük kâğıt seçin; üretici deseni küçültmemelidir. Çevrede beyaz boşluk bırakın, parlak yansımalardan kaçının ve baskıyı düz yüzeye yapıştırın.</string>
+    <string name="guide_placement_title" formatted="false">Set yerleşimi</string>
+    <string name="guide_placement_body" formatted="false">Benzersiz ID kullanın ve haritadaki her markerı sabit tutun. Markerları hareket boyunca farklı bakış yönlerine ve yüksekliklere dağıtın. Küçük ve uzak markerlardan, aşırı açılardan, hareket bulanıklığından ve kapanmalardan kaçının. Büyük baskılar uzaktan daha kolay gözlenir. Taşınmış marker kayıtlı dünya pozuyla eşleşmez; haritadan çıkarın veya haritayı yeniden kalibre edin.</string>
+    <string name="guide_mapping_title" formatted="false">Marker haritası kalibrasyonu</string>
+    <string name="guide_mapping_body" formatted="false">Sözlüğü ve gerçek siyah kare boyutlarını seçin. Farklı boyutlu markerlar için ID:boyut değerlerini kullanın. Orijin belirleyip toplamayı başlatın ve farklı açılardan yavaşça hareket edin. Her referans için yeterli kabul edilmiş gözlem, genellikle 30–100 örnek gerekir. Haritayı set değişmeden kaydedin. Mevcut haritaya yeni oturumda gözlem eklemeden önce yeniden hizalama gerekir.</string>
+    <string name="guide_relocalization_title" formatted="false">Yeniden hizalama</string>
+    <string name="guide_relocalization_body" formatted="false">Yeni AR oturumunun koordinat sistemi yenidir. Marker haritasını yüklemek bu sistemi otomatik hizalamaz. Kayıttan önce haritadaki sabit bir markerı net biçimde gösterip Haritayı yeniden hizala seçeneğini kullanın. Referans güncel ve güvenle algılanmış olmalıdır. Yeni Orijin belirle işlemi yeni başlangıç oluşturur; eski harita hizasını geri getirmez.</string>
+    <string name="guide_origin_guide_title" formatted="false">Orijin belirleme</string>
+    <string name="guide_origin_guide_body" formatted="false">Kararlı takibi bekleyin, rigi amaçlanan referans pozunda tutup Orijin belirle seçeneğini kullanın. Kaydedilen poz anchor referansına göredir. Kayıt sırasında orijini değiştirmeyin. Kayıtlı harita gerekiyorsa Haritayı yeniden hizala seçeneğini kullanın. Orijinin Blender sahnesindeki yerini planlayıp referans pozunu ekiple paylaşın.</string>
+    <string name="guide_record_guide_title" formatted="false">Çekim kaydetme</string>
+    <string name="guide_record_guide_body" formatted="false">Film FPS değerini, odak uzaklığını, aktif sensör alanını, rigi ve haritayı doğrulayın. Depolamayı ve takip kalitesini kontrol edin. Orijin belirleyin veya yeniden hizalayın, ardından kırmızı kayıt düğmesine basın. Başlangıç ve sona yakın senkron işaretleri ekleyin. Normal şekilde durdurup dışa aktarma işlemesini bekleyin. Çekimden çıkarken durdurup kaydetme sorulur. Uygulamayı arka plana almak kaydı güvenle bitirir ve kesintiyi işaretler.</string>
+    <string name="guide_sync_guide_title" formatted="false">Senkron işaretleri</string>
+    <string name="guide_sync_guide_body" formatted="false">SENKRON monoton bir işaret-istek zaman damgası kaydeder; ses, ekran flaşı ve titreşim üretebilir. Fiziksel başlangıç donanımsal olarak zaman damgalanmaz. Film kamerasına işaret sesini kaydettirin, ardından post aşamasında bu işareti hizalayın. Birden çok işaret saat kaymasını görmeye yardımcı olabilir. Telefon saatiyle kamera zaman kodunun zaten senkron olduğunu varsaymayın.</string>
+    <string name="guide_quality_guide_title" formatted="false">Kalite ve takip kaybı</string>
+    <string name="guide_quality_guide_body" formatted="false">Kalite; takip geçerliliğini, örnekleme düzenini ve haritalanmış marker güvenini birleştirir. Yararlı bir göstergedir, ölçülmüş milimetre doğruluğu garantisi değildir. Doku ve ışığı artırın, bulanıklığı azaltıp referansları görünür tutun. Uzun boşluklar uydurulmuş kamera hareketi yerine geçersiz kareler olarak dışa aktarılır. Çekimi kullanmadan önce kayıp süresini, geçersiz kareleri ve yeniden projeksiyon hatalarını inceleyin.</string>
+    <string name="guide_export_guide_title" formatted="false">Dışa aktarma ve kurtarma</string>
+    <string name="guide_export_guide_body" formatted="false">.vfxtrack; metadata, ham akışlar, türetilmiş takip, tanılama ve referans kopyalarını içeren ZIP dosyasıdır. Orijinal film görüntüsüyle birlikte saklayın. Android dosya seçicisiyle dışa aktarın. Yalnızca CSV aktarımı birleşik Blender kamerası için pratiktir; tam paket daha fazla veri korur. Kayıt kesildiyse dışa aktarmadan önce saklanan kısmi kayıttaki tamamlanmış satırları kurtarın.</string>
+    <string name="guide_blender_title" formatted="false">Blender içe aktarma</string>
+    <string name="guide_blender_body" formatted="false">tools/blender/import_vfxtrack.py dosyasını eklenti olarak kurup paketi içe aktarın. Ham veya birleşik hareketi, başlangıç karesini, senkron ofsetini ve ölçeği seçin. İçe aktarıcı ARCore koordinatlarını Blender sistemine dönüştürür ve 23.976 gibi rasyonel hızlar dahil film FPS değerini ayarlar. Kayıtlı işareti filme hizalayın. Render öncesi odak uzaklığını, sensör uyumunu ve bilinen fiziksel hareketi kontrol edin. Geçersiz takip kareleri inceleme için işaretlenir.</string>
+    <string name="guide_raw_fused_title" formatted="false">Ham ve birleşik takip</string>
+    <string name="guide_raw_fused_body" formatted="false">Ham takip, belgelenmiş koordinat ve rig dönüşümleri uygulanmış orijinal ARCore pozudur. Birleşik takip marker dünya referansı düzeltmesini ekler. Çevrimdışı yumuşatma yalnızca türetilmiş çıktıyı etkiler, orijinal sensör akışlarını değiştirmez. Markerlar uyuşmadığında, taşındığında veya kapandığında ham ve birleşik takibi karşılaştırın. Post ekibinin güvenilir sonucu seçebilmesi için ikisini de koruyun.</string>
+    <string name="guide_troubleshoot_title" formatted="false">Sorun giderme</string>
+    <string name="guide_troubleshoot_body" formatted="false">Önizleme yoksa kamera iznini ve ARCore desteğini kontrol edin. Marker görünmüyorsa sözlüğü, baskı boyutunu, netliği ve beyaz kenarı doğrulayın. Düzeltme kararsızsa sabit yerleşimi, harita hizasını ve lens kalibrasyonunu kontrol edin. Görüş açısı yanlışsa aktif sensör kırpmasını ve odak uzaklığını doğrulayın. Dönüşte ofset varsa rigi yeniden ölçün. Eksik karelerde takip kaybını, depolamayı ve ısıl durumu inceleyin. Hata araştırırken ham paketi ve tanılama ayrıntılarını saklayın.</string>
+    <string name="export_options" formatted="false">Dışa aktarma seçenekleri</string>
+    <string name="include_reference_video" formatted="false">Referans videoyu pakete ekle</string>
+    <string name="tracking_data_size" formatted="false">Takip verisi</string>
+    <string name="reference_video_size" formatted="false">Referans video</string>
+    <string name="estimated_export_size" formatted="false">Tahmini paket</string>
+    <string name="export_video_default_hint" formatted="false">Referans video varsayılan olarak pakete eklenmez. Takip verisi her zaman eklenir.</string>
+    <string name="exporting" formatted="false">Dışa aktarma yazılıyor…</string>
+    <string name="export_failed" formatted="false">Dışa aktarma yazılamadı. Hedefin boş alanını ve erişim iznini kontrol edip yeniden deneyin. Orijinal kayıt değiştirilmedi.</string>
+    <string name="detected_candidates" formatted="false">Algılanan adaylar</string>
+    <string name="rejected_candidates" formatted="false">Reddedilen adaylar</string>
+    <string name="detected_ids" formatted="false">Algılanan kimlikler</string>
+    <string name="cpu_image" formatted="false">CPU kamera görüntüsü</string>
+    <string name="cpu_image_timestamp" formatted="false">CPU görüntü zamanı</string>
+    <string name="pose_timestamp" formatted="false">AR poz zamanı</string>
+    <string name="submitted_frames" formatted="false">Gönderilen marker kareleri</string>
+    <string name="processed_frames" formatted="false">İşlenen marker kareleri</string>
+    <string name="processing_time" formatted="false">Son işleme süresi</string>
+    <string name="intrinsics_match" formatted="false">CPU intrinsics uyumu</string>
+    <string name="last_detector_error" formatted="false">Son algılayıcı hatası</string>
+    <string name="cpu_unavailable" formatted="false">Alınamayan CPU görüntüleri</string>
+    <string name="translation_dead_zone" formatted="false">Konum ölü bölgesi</string>
+    <string name="rotation_dead_zone" formatted="false">Dönüş ölü bölgesi</string>
+    <string name="relock_confirmation" formatted="false">Yeniden kilit onay karesi</string>
+    <string name="translation_blend" formatted="false">Konum geçişi</string>
+    <string name="rotation_blend" formatted="false">Dönüş geçişi</string>
+    <string name="minimum_confidence" formatted="false">En düşük marker güveni</string>
+    <string name="gap_repair_limit" formatted="false">Çevrimdışı boşluk onarım sınırı</string>
+    <string name="tracking_refinement" formatted="false">Takip iyileştirme</string>
+    <string name="raw_jitter" formatted="false">RAW titreşim</string>
+    <string name="fused_jitter" formatted="false">FUSED titreşim</string>
+    <string name="refined_jitter" formatted="false">REFINED titreşim</string>
+    <string name="rejected_outliers" formatted="false">Reddedilen aykırı örnekler</string>
+    <string name="repaired_samples" formatted="false">Onarılan örnekler</string>
+    <string name="relocks" formatted="false">Marker yeniden kilitleri</string>
+    <string name="moved_markers" formatted="false">Taşınmış markerlar</string>
+    <string name="average_processing" formatted="false">Ortalama marker işleme</string>
+    <string name="track_quality" formatted="false">Takip kalitesi</string>
+    <string name="rejected_marker_observations" formatted="false">Reddedilen marker gözlemleri</string>
+    <string name="repaired_gaps" formatted="false">Onarılan boşluklar</string>
+    <string name="longest_repaired_gap" formatted="false">En uzun onarılan boşluk</string>
+    <string name="unrepaired_gaps" formatted="false">Onarılmayan uzun boşluklar</string>
+    <string name="sample_counts" formatted="false">RAW / FUSED / REFINED örnekleri</string>
+    <string name="maximum_deviation" formatted="false">En büyük refined sapması</string>
+    <string name="marker_used" formatted="false">Kullanıldı</string>
+    <string name="marker_valid" formatted="false">Geçerli</string>
+    <string name="marker_mapped" formatted="false">Haritalanmış</string>
+    <string name="awaiting_confirmation" formatted="false">Onay bekleniyor</string>
+    <string name="reject_low_confidence" formatted="false">Düşük güven</string>
+    <string name="reject_reprojection" formatted="false">Yüksek projeksiyon hatası</string>
+    <string name="reject_translation" formatted="false">Konum aykırı değeri</string>
+    <string name="reject_rotation" formatted="false">Dönüş aykırı değeri</string>
+    <string name="reject_moved" formatted="false">Marker taşınmış olabilir</string>
+    <string name="reject_map_quality" formatted="false">Düşük harita kalitesi</string>
+    <string name="reject_tracking" formatted="false">ARCore takip etmiyor</string>
+    <string name="reject_not_mapped" formatted="false">Haritalanmamış</string>
+</resources>
